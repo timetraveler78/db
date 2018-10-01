@@ -2,6 +2,10 @@
   "customer": [
     { "id": 1, "title": "dhr" ,"firstName" : "roy", "middleName" : "van den" , "lastname" : "Berg" }
   ],
+   "Address": [
+    { "id": 1, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" },
+  { "id": 2, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" }
+   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
