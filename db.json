@@ -1,6 +1,7 @@
 {
   "customer": [
-    { "id": 1, "title": "dhr" ,"firstName" : "roy", "middleName" : "van den" , "lastname" : "Berg", "Phone" : "0641808167" , "Email" : "roy.vdberg@gmail.com" }
+    { "id": 1, "title": "dhr" ,"firstName" : "roy", "middleName" : "van den" , "lastname" : "Berg", "Phone" : "0641808167" , "Email" : "roy.vdberg@gmail.com" },
+    { "id": 2, "title": "dhr" ,"firstName" : "roy", "middleName" : "van den" , "lastname" : "Berg", "Phone" : "0641808167" , "Email" : "roy.vdberg@gmail.com" }
   ],
    "Address": [
     { "id": 1, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" }
