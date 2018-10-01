@@ -8,7 +8,7 @@
    ],
   
   "pets": [
-    { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "???" "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
+    { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "???", "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
