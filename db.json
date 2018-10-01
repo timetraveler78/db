@@ -3,9 +3,11 @@
     { "id": 1, "title": "dhr" ,"firstName" : "roy", "middleName" : "van den" , "lastname" : "Berg", "Phone" : "0641808167" , "Email" : "roy.vdberg@gmail.com" }
   ],
    "Address": [
-    { "id": 1, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" },
-    { "id": 2, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" }
+    { "id": 1, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" }
    ],
+   "pets": [
+    { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "???", "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
