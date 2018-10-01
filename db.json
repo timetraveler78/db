@@ -5,10 +5,10 @@
    "Address": [
     { "id": 1, "FKcustomerId": 1 ,"Street" : "van schaikstraat", "Number" : "1" , "zipcode" : "6921BJ" , "City" : "Duiven", "Country" : "NL" }
    ],
-   "pets": [
+   "pet": [
     { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "Snautzer", "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
   ],
-  "comments": [
+  "comment": [
     { "id": 1,"FKcustomerId": 1, "body": "some comment" },
     { "id": 2,"FKcustomerId": 1, "body": "some comment" }
   ]
