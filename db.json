@@ -9,6 +9,9 @@
    "pet": [
     { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "Snautzer", "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
   ],
+   "appointment": [
+    { "id": 1, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "20:50", "Comment" : "Opmerking"}
+  ],
   "comment": [
     { "id": 1,"FKcustomerId": 1, "body": "some comment" },
     { "id": 2,"FKcustomerId": 1, "body": "some comment" }
