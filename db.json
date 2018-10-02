@@ -10,9 +10,9 @@
     { "id": 1, "FKcustomerId": 1 , "Name" : "Elmo","Race" : "Snautzer", "Gender" : "Male", "Comment" : "Opmerking", "veterinarian" : "dierenarts"}
   ],
    "appointment": [
-    { "id": 1, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "19:00", "Comment" : "Opmerking"},
-     { "id": 2, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "15:30", "Comment" : "Opmerking"},
-     { "id": 3, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "09:00", "Comment" : "Opmerking"}
+    { "id": 1, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "19:00", "Comment" : "Opmerking1"},
+     { "id": 2, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "15:30", "Comment" : "Opmerking2"},
+     { "id": 3, "FKcustomerId": 1 , "Date" : "02-10-2018","Time" : "09:00", "Comment" : "Opmerking3"}
   ],
   "comment": [
     { "id": 1,"FKcustomerId": 1, "body": "some comment" },
